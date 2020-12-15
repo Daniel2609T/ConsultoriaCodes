@@ -1,0 +1,24 @@
+[1203/200626.388:ERROR:tcp_socket_win.cc(339)] bind() returned an error: Solo se permite un uso de cada dirección de socket (protocolo/dirección de red/puerto) (0x2740)
+[1203/200626.388:ERROR:devtools_http_handler.cc(249)] Cannot start http server for devtools. Stop devtools.
+[1203/201141.944:ERROR:tcp_socket_win.cc(339)] bind() returned an error: Solo se permite un uso de cada dirección de socket (protocolo/dirección de red/puerto) (0x2740)
+[1203/201141.944:ERROR:devtools_http_handler.cc(249)] Cannot start http server for devtools. Stop devtools.
+[1203/201234.588:ERROR:tcp_socket_win.cc(339)] bind() returned an error: Solo se permite un uso de cada dirección de socket (protocolo/dirección de red/puerto) (0x2740)
+[1203/201234.588:ERROR:devtools_http_handler.cc(249)] Cannot start http server for devtools. Stop devtools.
+[1203/201431.594:ERROR:tcp_socket_win.cc(339)] bind() returned an error: Solo se permite un uso de cada dirección de socket (protocolo/dirección de red/puerto) (0x2740)
+[1203/201431.594:ERROR:devtools_http_handler.cc(249)] Cannot start http server for devtools. Stop devtools.
+[1203/203154.072:INFO:CONSOLE(1)] "Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/.", source: https://serversh:40000/sap/sbo/cockpit/ui/cockpit-init.js (1)
+[1203/203154.226:INFO:CONSOLE(393)] "Info: WebSocket connection opened.", source: https://serversh:40000/IM/client/clientUserList.html?sbo_user_code=GER005&sbo_user_name=RPA+Siete24&dbserver_name=serversh%3A30015&company_database_name=SIETE24_PROD_HANA&dbType=HANADB (393)
+[1203/203154.227:INFO:CONSOLE(44)] "2020-12-03 20:31:54 Device API logging initialized - DEVICE", source: https://serversh:40000/sap/ui5/2/resources/sap-ui-core.js (44)
+[1203/203154.278:INFO:CONSOLE(80)] "2020-12-03 20:31:54 registerResourcePath ('', '/sap/ui5/2/resources/') -  sap.ui.ModuleSystem", source: https://serversh:40000/sap/ui5/2/resources/sap-ui-core.js (80)
+[1203/203154.278:INFO:CONSOLE(80)] "2020-12-03 20:31:54 URL prefixes set to: -  sap.ui.ModuleSystem", source: https://serversh:40000/sap/ui5/2/resources/sap-ui-core.js (80)
+[1203/203154.278:INFO:CONSOLE(80)] "2020-12-03 20:31:54   (default) : /sap/ui5/2/resources/ -  sap.ui.ModuleSystem", source: https://serversh:40000/sap/ui5/2/resources/sap-ui-core.js (80)
+[1203/203154.338:INFO:CONSOLE(80)] "2020-12-03 20:31:54 registerResourcePath ('sap/ushell', 'ui/ushell/') -  sap.ui.ModuleSystem", source: https://serversh:40000/sap/ui5/2/resources/sap-ui-core.js (80)
+[1203/203155.637:INFO:CONSOLE(80)] "2020-12-03 20:31:55 registerResourcePath ('sap/ushell/adapters/cockpit', 'ui/adapters/') -  sap.ui.ModuleSystem", source: https://serversh:40000/sap/ui5/2/resources/sap-ui-core.js (80)
+[1203/203155.637:INFO:CONSOLE(80)] "2020-12-03 20:31:55 registerResourcePath ('sap/b1/cockpit/tile', 'ui/tile/') -  sap.ui.ModuleSystem", source: https://serversh:40000/sap/ui5/2/resources/sap-ui-core.js (80)
+[1203/203155.637:INFO:CONSOLE(80)] "2020-12-03 20:31:55 registerResourcePath ('sap/b1/cockpit/utils', 'ui/utils/') -  sap.ui.ModuleSystem", source: https://serversh:40000/sap/ui5/2/resources/sap-ui-core.js (80)
+[1203/203155.637:INFO:CONSOLE(80)] "2020-12-03 20:31:55 registerResourcePath ('sap/pervasive', '/sap/sbo/pervasive/IMCC/ui/ushell/renderers/fiori2/pervasive/') -  sap.ui.ModuleSystem", source: https://serversh:40000/sap/ui5/2/resources/sap-ui-core.js (80)
+[1203/203157.858:INFO:CONSOLE(80)] "2020-12-03 20:31:57 registerResourcePath ('workbench', 'ui/tile/workbench/') -  sap.ui.ModuleSystem", source: https://serversh:40000/sap/ui5/2/resources/sap-ui-core.js (80)
+[1203/205920.539:INFO:CONSOLE(5)] "Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/.", source: https://serversh:40000/IMCC/scripts/search.rtl.js (5)
+[1203/205936.384:INFO:CONSOLE(172)] "normalSearch --> window.external.b1DoEnterpriseSearch("PAGOS RECIBIDOS", 0)", source: https://serversh:40000/IMCC/scripts/search.logic.js (172)
+[1203/205937.109:INFO:CONSOLE(5)] "Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/.", source: https://serversh:40000/IMCC/scripts/search-rtl.js (5)
+[1203/210006.808:INFO:CONSOLE(2)] "Uncaught SyntaxError: Failed to set the 'href' property on 'Location': 'https://serversh:40000undefined' is not a valid URL.", source: https://serversh:40000/sap/sbo/cockpit/ui/ushell/library-preload.json/sap/ushell/renderers/fiori2/TemplateSelectDialog.js (2)
